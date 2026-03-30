@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![williamgrocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamgrocha)](https://github.com/williamgrocha/github-readme-stats)
 <!--
 **williamgrocha/williamgrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
