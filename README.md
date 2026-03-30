@@ -20,6 +20,8 @@ I'm a backend developer, Python enthusiast and a student at Universidade Federal
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 &nbsp;
 
 ## 👇 &nbsp;Current project
