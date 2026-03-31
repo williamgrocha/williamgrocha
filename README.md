@@ -1,13 +1,11 @@
-# William G. Rocha
-**`Professional Learner`**
+## William G. Rocha
+Hey there, I'm a backend developer from Brazil. I'm a Computer Science student at Universidade Federal Fluminense (UFF), where I study CS fundamentals while building web applications and APIs, mainly using Python, Flask and SQL.
 
-I'm a backend developer, Python enthusiast and a student at Universidade Federal Fluminense (UFF).
+I have experience working in a team environment through IN Junior, the junior enterprise at my university, where I worked as a Backend Developer and Project Advisor. I contributed to internal initiatives, helped restructure the Product Owner training program, and participated in technical training focused on web development and backend development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamgrocha/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willgrahamr/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:williamgrahamrocha@gmail.com)
-<a href="">
-<img src="https://custom-icon-badges.demolab.com/badge/Rio de Janeiro-BRA-yellow?style=for-the-badge&logo=location&logoColor=white"></a>
 
 ---
 
