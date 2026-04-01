@@ -1,5 +1,5 @@
 ## William G. Rocha
-Hey there, I'm a backend developer from Brazil. I'm a Computer Science student at Universidade Federal Fluminense (UFF), where I study CS fundamentals while building web applications and APIs, mainly using Python, Flask and SQL.
+Hey there, I'm a backend developer from Brazil and a Computer Science student at Universidade Federal Fluminense (UFF), where I study CS fundamentals while building web applications and APIs, mainly using Python, Flask and SQL.
 
 I have experience working in a team environment through IN Junior, the junior enterprise at my university, where I worked as a Backend Developer and Project Advisor. I contributed to internal initiatives, helped restructure the Product Owner training program, and participated in technical training focused on web development and backend development.
 
