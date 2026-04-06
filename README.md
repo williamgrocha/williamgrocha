@@ -23,19 +23,19 @@ I have experience working in a team environment through IN Junior, the junior en
 &nbsp;
 
 ## 👇 &nbsp;Current project
+
+
+## 🖥 &nbsp;Projects
 ### Job Application Tracker
 
 Web app to track job applications, deadlines and statuses.
 
-**Stack:** Flask • SQLite • Bootstrap
+**Stack:** Flask • SQLite • Bootstrap • Jinja • Python
 
-[Check it out](https://github.com/williamgrocha/job-application-tracker)
+🔗 https://github.com/williamgrocha/job-application-tracker
 
-&nbsp;
-
-## 🖥 &nbsp;Projects
 ### Inventory CRUD API
 Simple backend project implementing CRUD operations for inventory management.
 
-**Tech:** Python • Flask • SQLite  
+**Tech:** Python • FastAPI • SQLite  
 🔗 https://github.com/williamgrocha/python-review
