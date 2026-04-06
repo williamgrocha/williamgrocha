@@ -21,8 +21,6 @@ I have experience working in a team environment through IN Junior, the junior en
 ---
 
 
-&nbsp;
-
 ## 🖥 Projects
 ### Job Application Tracker
 
@@ -30,7 +28,7 @@ Web app to track job applications, deadlines and statuses.
 
 **Stack:** Flask • SQLite • Bootstrap • Jinja • Python
 
-🔗 https://github.com/williamgrocha/job-application-tracker
+🔗 https://github.com/williamgrocha/job-application-tracker or 🔗 https://applied-tracker.onrender.com
 
 ### Inventory CRUD API
 Simple backend project implementing CRUD operations for inventory management.
