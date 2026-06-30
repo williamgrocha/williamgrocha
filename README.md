@@ -19,7 +19,7 @@ I have experience working in a team environment through IN Junior, the junior en
 
 
 ## 🖥 Projects
-### Job Application Tracker
+### Applied - Job Application Tracker
 
 Web app to track job applications, deadlines and statuses.
 
