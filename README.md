@@ -1,7 +1,8 @@
 ## William G. Rocha
-Hey there, I'm a backend developer from Brazil and a Computer Science student at Universidade Federal Fluminense (UFF), where I study CS fundamentals while building web applications and APIs, mainly using Python, Flask and SQL.
-
-I have experience working in a team environment through IN Junior, the junior enterprise at my university, where I worked as a Backend Developer and Project Advisor. I contributed to internal initiatives, helped restructure the Product Owner training program, and participated in technical training focused on web development and backend development.
+Hey there!
+I'm an Information Systems student at Universidade Federal Fluminense (UFF) with a strong interest in backend development and building software that solves real-world problems.
+Over the past few months, I completed Harvard's CS50x and have been focusing on developing web applications and REST APIs using Python, Flask and FastAPI. I enjoy turning manual processes into simple, reliable systems and continuously improving my software engineering skills.
+I'm currently looking for a **Backend / Python Internship**, where I can contribute, learn from experienced developers, and continue growing as a software engineer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamgrocha/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:williamgrahamrocha@gmail.com)
@@ -12,7 +13,6 @@ I have experience working in a team environment through IN Junior, the junior en
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
